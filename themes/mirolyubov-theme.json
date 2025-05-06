@@ -1,0 +1,98 @@
+{
+  "name": "Mirolyubov Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a1d23",
+    "sideBar.background": "#133746",
+    "sideBarTitle.background": "#e3e8ff",
+    "sideBarTitle.foreground": "#f56500",
+    "editorGutter.background": "#133746",
+    "editorGroupHeader.tabsBackground": "#e3e8ff",
+    "editorGroup.dropIntoPromptForeground": "#133746",
+    "editor.snippetTabstopHighlightBackground": "#e3e8ff",
+    "tab.activeBackground": "#133746",
+    "tab.inactiveBackground": "#133746",
+    "statusBar.background": "#133746",
+    "statusBarItem.remoteBackground": "#133746",
+    "panel.background": "#e3e8ff",
+    "terminal.background": "#133746",
+    "activityBar.background": "#e3e8ff",
+    "activityBar.foreground": "#f56500",
+    "activityBar.inactiveForeground": "#f56600c4",
+    "menu.background": "#9292b8",
+    "titleBar.activeBackground": "#133746",
+    "titleBar.inactiveBackground": "#133746",
+    "editor.lineHighlightBackground": "#4b9bbb27",
+    "menu.border": "#070708",
+    "editorLineNumber.activeForeground": "#819dbc",
+    "tab.activeBorderTop": "#e3e8ff",
+    "tab.activeForeground": "#e3e8ff",
+    "tab.dragAndDropBorder": "#819dbc",
+    "tab.unfocusedInactiveForeground": "#e3e8ff",
+    "tab.unfocusedActiveForeground": "#e3e8ff",
+    "statusBar.foreground": "#e3e8ff",
+    "activityBar.activeBorder": "#f87d0a00",
+    "activityBarBadge.background": "#f56500",
+    "terminal.tab.activeBorder": "#fc7c05",
+    "menu.selectionBackground": "#71bcac",
+    "list.focusAndSelectionOutline": "#fc7c0500",
+    "list.activeSelectionBackground": "#1a1d23",
+    "sideBar.foreground": "#7593cf"
+  },
+  "tokenColors": [
+    {
+      "scope": "support.variable.property.js,meta.object-literal.key.tsx, entity.name.type.interface.tsx,entity.name.type.tsx,meta.object-literal.key.js,variable.other.property.tsx,variable.parameter.tsx,variable.other.readwrite.alias.tsx, variable.other.readwrite.tsx, variable.other.object.tsx, variable.other.object.js, variable.other.constant.js, variable.other.readwrite.js, variable.other.object.property.js,variable.other.property.js",
+      "settings": {
+        "foreground": "#e3e8ff"
+      }
+    },
+    {
+      "scope": "entity.name.tag.tsx,entity.name.tag.js",
+      "settings": {
+        "foreground": "#e3e8ff"
+      }
+    },
+    {
+      "scope": "entity.name.function.tsx,entity.name.function.js",
+      "settings": {
+        "foreground": "#b587ff"
+      }
+    },
+    {
+      "scope": "punctuation.definition.string.begin.tsx,punctuation.definition.string.end.tsx,string.quoted.single.tsx,string.quoted.double.tsx,string.quoted.single.js, string.quoted.double.js,punctuation.definition.string.begin.js,punctuation.definition.string.end.js",
+      "settings": {
+        "foreground": "#abf39b"
+      }
+    },
+    {
+      "scope": "support.class.component.tsx, support.class.component.js",
+      "settings": {
+        "foreground": "#ff5b32"
+      }
+    },
+    {
+      "scope": "constant.numeric.decimal.ts,constant.numeric.decimal.tsx,constant.numeric.decimal.js",
+      "settings": {
+        "foreground": "#ffc23e"
+      }
+    },
+    {
+      "scope": "storage.type.tsx, keyword.control.export.tsx, keyword.control.flow.tsx",
+      "settings": {
+        "foreground": "#b2bff7"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.tsx",
+      "settings": {
+        "foreground": "#6bd1c9"
+      }
+    },
+    {
+      "scope": "storage.type.js, storage.type.tsx",
+      "settings": {
+        "foreground": "#008b94"
+      }
+    }
+  ]
+}
