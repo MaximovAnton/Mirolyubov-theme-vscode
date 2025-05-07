@@ -2,7 +2,7 @@
   "name": "Mirolyubov-theme",
   "displayName": "Mirolyubov Theme",
   "description": "A soft pastel-colored VS Code theme with gentle contrasts.",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "publisher": "Mirolyubov",
   "engines": {
     "vscode": "^1.80.0"
@@ -15,7 +15,7 @@
       {
         "label": "Mirolyubov Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/my-soft-theme-color-theme.json"
+        "path": "./themes/Mirolyubov-theme.json"
       }
     ]
   }
